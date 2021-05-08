@@ -25,5 +25,5 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.<br />
 Your app is ready to be deployed!
 
-### `Deployment`
+## Deployment
 https://react-js-covid-19-tracker.netlify.app/
