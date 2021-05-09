@@ -25,3 +25,7 @@ Your app is ready to be deployed!
 
 ## Deployment
 https://react-js-covid-19-tracker.netlify.app/
+## Video Demo Link
+https://drive.google.com/file/d/1jxqlXp1jTIuiy1XQoOjPq8RhgVdo56-M/view?usp=sharing
+## Google Drive Link
+https://drive.google.com/drive/folders/1qDZPyGaHJ2cZYz4j1WaaxdDr7D8WdnhP?usp=sharing
